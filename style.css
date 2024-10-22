@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(163, 194, 209);
+}
+h1{
+    color: beige;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 100;
+
+}
+p{
+    background-color: ghostwhite;
+    color: white;
+}
+
+
+/* targeting element by id we use # */
+#p1{
+    color: aqua;
+}
+
+/* targeting element by class we use . */
+.odd{
+    color: red;
+}
+
+.even{
+    color:blue
+}
